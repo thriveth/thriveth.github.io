@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>moi on T. Emil Rivera-Thorsen</title>
+    <link>https://username.github.io/categories/moi/</link>
+    <description>Recent content in moi on T. Emil Rivera-Thorsen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>trive@astro.su.se (Emil Rivera-Thorsen)</managingEditor>
+    <webMaster>trive@astro.su.se (Emil Rivera-Thorsen)</webMaster>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://username.github.io/categories/moi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A little verse</title>
+      <link>https://username.github.io/post/my-first-post/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/post/my-first-post/</guid>
+      <description>&lt;p&gt;This is a very cute little verse that I wrote once, isn&amp;rsquo;t it cute?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

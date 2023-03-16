@@ -1,0 +1,131 @@
+#+hugo_base_dir: ../
+#+startup: logdone 
+
+* DONE Welcome!
+CLOSED: [2022-07-05 Tue 03:24]
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: page
+:EXPORT_FILE_NAME: about
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-05 Tue 03:24]
+:END:
+
+I'm *Emil Rivera-Thorsen*. This is my page, please take a look around
+
+* DONE Research
+CLOSED: [2022-07-01 Fri 17:49]
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: page
+:EXPORT_FILE_NAME: research
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2022-07-01 Fri 17:49]
+:END:
+** DONE JWST
+CLOSED: [2022-07-01 Fri 17:49]
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :subtitle "My work with the " 
+:EXPORT_FILE_NAME: jwst
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2022-07-01 Fri 17:49]
+:END:
+*** Big image etc.                                                    :ignore:
+#+begin_src toml :front_matter_extra t
+  bigimg=[{src="/images/webb_artist_nasa.jpg"}]
+#+end_src
+
+My work with JWST.
+
+*** The Sunburst Arc
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :subtitle "The brightest known gravitationally lensed galaxy" 
+:END:
+
+*** COOLJ-241+2219
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :subtitle "A bright lensed galaxy at /z/ = 5" 
+:END:
+
+** DONE Haro 11
+CLOSED: [2022-07-01 Fri 17:49]
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :subtitle "A small but powerful galaxy merger" 
+:EXPORT_FILE_NAME: haro11
+:END:
+
+#+begin_src toml :front_matter_extra t
+  bigimg=[{src="/images/Haro11Hubblesite.jpg"}]
+#+end_src
+
+Something something about Haro 11. There is a lot to write.
+
+* DONE Outreach
+CLOSED: [2022-07-05 Tue 03:21]
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: page
+:EXPORT_FILE_NAME: outreach
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-05 Tue 03:21]
+:END:
+
+Something about the importance of outreach 
+
+* Blog
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: post
+:END:
+** DONE Hello world 
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-05-31-hello-world
+:EXPORT_DATE: <2022-05-30 Mon>
+:END:
+
+So how does this org hugo blogging thing work... 
+
+** DONE Code testing
+:PROPERTIES:
+:EXPORT_FILE_NAME: code-testing
+:EXPORT_DATE: <2022-07-04 Mon>
+:subtitle: From ~org-hugo~
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-31 Tue 00:11]
+:END:
+
+#+begin_src python
+  from astropy.io import fits
+
+  def my_function(my_arg, my_kwarg=None, *args, **kwargs):
+      return my_arg
+#+end_src
+
+** DONE A little verse                                                   :@moi:
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-first-post
+:EXPORT_DATE: <2022-05-30 Mon>
+:END:
+
+This is a very cute little verse that I wrote once, isn't it cute?
+#+hugo: more
+#+begin_quote
+Der var en gang en mand \\
+Han boede i en spand    \\
+og spanden var af ler  \\
+og konen vasked bleer  \\
+og sønnen var barber  \\
+og tanten spilled klaver  \\
+Nu kan jeg ikke mer'  \\
+#+end_quote
+
+Also, here is a nice picture:
+
+# #+caption: Forsiden til Okker Gokker Gummi Klokker bogen.
+#+attr_html: :width 800px
+#+attr_org: :width 200px
+[[../static/images/okkergokker.jpg]]
+
+That is the book from whence the above verse was taken. It is a good
+book. Isn't that nice. Longer text longer text longer text. 

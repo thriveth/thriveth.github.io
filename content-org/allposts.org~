@@ -1,0 +1,336 @@
+#+hugo_base_dir: ~/Arbejde/Org-hugo-site/beautiful/
+#+startup: logdone 
+
+* DONE About me
+CLOSED: [2022-07-05 Tue 03:24]
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: page
+:EXPORT_HUGO_BUNDLE: about
+:EXPORT_FILE_NAME: index
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-05 Tue 03:24]
+:END:
+
+#+attr_org: :width 800px
+#+attr_html: :width 100% :align right
+[[../static/emil_wide.png]]
+
+*/Vær hilset,/*
+
+I am an astrophysics researcher at  the [[http://okc.albanova.se][Oscar Klein Center]] in Stockholm, Sweden.
+My research is focused on the properties and evolution of [[https://en.wikipedia.org/wiki/Starburst_galaxy][Starburst galaxies]] and
+how  they have  influenced the  evolution  history of  the Universe  from a  few
+hundred million years  after the Big Bang  and up till today.  I am particularly
+interesting in using  [[https://en.wikipedia.org/wiki/Strong_gravitational_lensing][Gravitational Lensing]] as a sort of  "natural telescope" to
+study extremely  distant, but  highly magnified, starburst  galaxies as  if they
+were close  by. I  am also  interested in the  phenomenon of  [[https://en.wikipedia.org/wiki/Supermassive_black_hole][Supermassive Black
+Holes]],  and their  relation  to star  formation  and how  they  can disrupt  the
+interstellar medium of their host galaxies.
+
+Currently, I am funded by a 4-year grant from [[https://www.vr.se/][Vetenskapsrådet / Swedish Research
+Council]],  to search  for and  study gravitationally  lensed starbursts  that are
+leaking ionizing UV  light into the Universe,  using cool toys such  as the /[[https://webbtelescope.org/][JWST]]/
+the /[[https://hubblesite.org/][Hubble Space Telescope]]/, and the ESO [[https://www.eso.org/public/teles-instr/paranal-observatory/vlt/][Very Large Telescope]]. Before this, I was
+a postdoc at Stockholm University, working  with [[https://xayes.org/pub/][Matthew Hayes]], working on Lyman
+Continuum  emitters  in the  [[https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field][Hubble  Ultra  Deep Field]];  and  a  postdoc at  the
+University of Oslo,  Norway, working with [[https://www.mn.uio.no/astro/english/people/aca/hdahle/index.html][Håkon Dahle]]  on gravitationally lensed
+starburst galaxies.
+
+I earned my *Ph.D.* from Stockholm University in December 2016, working with Göran
+Östlin, and my *Bachelor's* and *Master's* degrees from the [[https://dark.nbi.ku.dk][DARK Cosmology Center]] at
+the Niels Bohr Institute, Copenhagen, Denmark, working with [[https://www.nbi.dk/~jfynbo/][Johan Fynbo]].
+
+I grew  up a bookish redneck  in the countryside  near [[https://en.wikipedia.org/wiki/Faaborg][Faaborg]], a small  town in
+southern Denmark. I now live with my American wife and our two kids.
+
+* Media
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: page
+:EXPORT_HUGO_BUNDLE: media
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc 2
+:END:
+** Big img.                                                            :ignore:
+#+begin_src toml :front_matter_extra t
+  bigimg=[{src="/images/media-2.jpeg"}]
+#+end_src
+
+** Press releases
+- */OKC/* press release about JWST Cycle 1 programs: [[http://www.okc.albanova.se/about-us/news/two-okc-researchers-will-be-among-the-first-to-use-jwst-1.550563][Two OKC researchers will be
+  among the first to use JWST]]
+- */University of Oslo/* press release about JWST Cycle 1 programs: [[https://titan.uio.no/universet/2022/james-webb-norsk-forsker-er-blant-de-foerste-som-far-ta-bilder-med-superteleskopet][James Webb:
+  Norsk forsker er blant de første som får ta bilder med superteleskopet]]  🇳🇴
+- */OKC/* press release about the Sunburst Arc [[http://www.okc.albanova.se/about-us/news/astronomers-find-galaxy-revealing-its-innermost-secrets-in-12-copies-1.462081][Astronomers find galaxy revealing its
+  innermost secrets – in 12 copies]]
+- */UiO/* press release about the Sunburst Arc: [[https://titan.uio.no/universet-naturvitenskap-english/2019/astronomers-observe-sunburst-early-universe-12-copies][Astronomers observe a sunburst from
+  the early universe – in 12 copies]]
+- */NASA/ESA Hubble/* image release about the Sunburst Arc: [[https://esahubble.org/news/heic1920/][Hubble Captures a
+  Dozen Sunburst Arc Doppelgangers]]
+
+** Video and podcasts
+- */RumSnak/*, a Space podcast from Denmark, with me as a guest: [[https://rumsnak.fireside.fm/29][Galakser som
+  forstørrelsesglas]] 🇩🇰
+- */TV4 Nyhetsmorgon/* - I told a bit about the /JWST/ to the [[https://www.youtube.com/watch?v=3pPMlz53WHU][morning news]] of
+  national Swedish television channel /TV4/. 🇸🇪
+- I gave an online public lecture for */IDA/*, the Danish union of engineers,
+  called [[https://videos.ida.dk/media/T%C3%A6t+p%C3%A5+det+unge+Univers+med+James+Webb-rumteleskopet+/1_1cbv4huj][Tæt på det unge Univers med James Webb-rumteleskopet]] 🇩🇰
+
+** Internet and print media
+- */Populär Astronomi/* about the Sunburst Arc: [[https://www.popularastronomi.se/2019/11/tolvdubbel-galax-bakom-kosmisk-lins-kan-beratta-om-hur-universum-lyste-upp/][Tolvdubbel galax bakom kosmisk
+  lins kan berätta om hur universum lyste upp]] 🇸🇪
+- */Inverse/* about the Sunburst Arc: [[https://www.inverse.com/article/60764-study-shows-ionizing-photons-escape-galaxies][This is why the universe is transparent]]
+- */Live Science/* about the Sunburst Arc: [[https://www.livescience.com/ionizing-photons-escape-galaxies-small-channels.html][This Is How Light May Have
+  Escaped from the Earliest Galaxies, Turning the Universe Transparent]]
+- */Science News/* about the Sunburst Arc: [[https://www.sciencenews.org/article/light-leaking-distant-galaxy-hints-reionization-origins][Light leaking from a distant galaxy hints
+  at a cosmic makeover’s origins]] 
+- */EarthSky/* about the Sunburst Arc (one of the best PopSci articles about that
+  paper in my opinion): [[https://earthsky.org/space/hubble-image-dozen-sunburst-arc-doppelgangers/][Hubble Captures a Dozen Galaxy Doppelgangers]]
+- */Phil Plait/*'s blog on SyFy about the Sunburst Arc[fn:1]: [[https://www.syfy.com/syfy-wire/sunburst-arc-reveals-how-infant-universe-lit-up][The Sunburst Arc: A
+  quirk of gravity reveals how the infant Universe lit up]]
+- Ethan Siegel's Forbes blog */Starts With A Bang/* mentions the Sunburst Arc:
+  [[https://www.forbes.com/sites/startswithabang/2019/12/02/these-are-the-top-10-hubble-images-of-2019/#51ffcf5e3795][These Are The Top 10 Hubble Images of 2019]]
+- Personal interview with local newspaper */Fyens Stiftstidende/* from my home
+  area: [[https://fyens.dk/faaborg-midtfyn/fra-mobbeobjekt-til-anerkendt-stjerneforsker-thoeger-fra-sydfyn-giver-et-bud-paa-gaaden-om-universets-oprindelse][Fra mobbeobjekt til anerkendt stjerneforsker: Thøger fra Sydfyn giver et
+  bud på gåden om universets oprindelse]] 🇩🇰
+
+** Misc.
+- The Sunburst Arc made an appearance i the US comic strip [[https://www.gocomics.com/candorville/2021/01/25][Candorville]].
+  
+[fn:1] This one I am extra proud of. /Phil Plait/!! 🤩
+
+* Research
+** DONE Research
+CLOSED: [2022-07-01 Fri 17:49]
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: page
+:EXPORT_HUGO_BUNDLE: research
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc 1
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2022-07-01 Fri 17:49]
+:END:
+
+I am an observational extragalactic astronomer specialized in the study of star
+formation and the interstellar medium in highly star-forming (or /starburst/)
+galaxies. I study these galaxies using some of the most advances telescopes in
+the world, including the ESO Very Large Telescope in Paranal, Chile, as well as
+the /Hubble Space Telescope/ and the new, exciting /JWST/. Below is a list of some
+of the projects I have either led or been involved in over the last few years.
+
+*** James Webb Space Telescope
+I have been fortunate enough to lead a succesful application to
+observe with the [[*JWST][JWST]] during its first year of operation, and have
+been involved in a couple of other JWST programs. See more [[*JWST][here]].
+
+*** Ionizing galaxies in the Hubble Ultra Deep Field
+
+Finding and studying galaxies that leak Lyman continuum (LyC) light
+into intergalactic Space is difficult and requires a lot of resources,
+escpecially expensive telescope time, so when studying these galaxies,
+we want to optimize the chances that we actually find escaping LyC
+light in them.
+
+  
+Something something [[*JWST][JWST]], and also some [[*Haro 11]]. And some [[*The
+Sunburst Arc]]. And perhaps some UVUDF stuff.
+
+
+*** Folly and tomfoolery                                            :noexport:
+Because sometimes it's just got to be a bit silly.
+
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Nulla posuere.  Donec vitae dolor.  Nullam tristique diam non turpis.  Cras placerat accumsan nulla.  Nullam rutrum.  Nam vestibulum accumsan nisl.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Nulla posuere.  Donec vitae dolor.  Nullam tristique diam non turpis.  Cras placerat accumsan nulla.  Nullam rutrum.  Nam vestibulum accumsan nisl.
+
+Nullam eu ante vel est convallis dignissim.  Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.  Nunc porta vulputate tellus.  Nunc rutrum turpis sed pede.  Sed bibendum.  Aliquam posuere.  Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.  Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet urna.  Curabitur vulputate vestibulum lorem.  Fusce sagittis, libero non molestie mollis, magna orci ultrices dolor, at vulputate neque nulla lacinia eros.  Sed id ligula quis est convallis tempor.  Curabitur lacinia pulvinar nibh.  Nam a sapien.
+
+** DONE The Sunburst Arc
+CLOSED: [2022-08-05 Fri 17:08]
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :subtitle "A unique galaxy seen through a cosmic telescope" 
+:EXPORT_HUGO_SECTION: page
+:EXPORT_HUGO_BUNDLE: sunburst
+:EXPORT_FILE_NAME: index
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-05 Fri 17:08]
+:END:
+
+*** Big image etc.                                                    :ignore:
+#+begin_src toml :front_matter_extra t
+  bigimg=[{src="/images/sunburst-horizontal.jpg"}]
+#+end_src
+
+The Sunburst Arc is a... (bla bla bla)
+#+HUGO: more
+
+**** Discovery
+**** Lyman α
+**** Lyman-continuum
+
+** DONE JWST
+CLOSED: [2022-07-01 Fri 17:49]
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :subtitle "My work with the James Webb Space Telescope" 
+:EXPORT_HUGO_SECTION: page
+:EXPORT_HUGO_BUNDLE: jwst
+:EXPORT_FILE_NAME: index
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2022-07-01 Fri 17:49]
+:END:
+*** Big image etc.                                                    :ignore:
+#+begin_src toml :front_matter_extra t
+  bigimg=[{src="/images/webb_artist_nasa.jpg"}]
+#+end_src
+
+My work with JWST.
+
+#+HUGO: more
+*** The Sunburst Arc
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :subtitle "The brightest known gravitationally lensed galaxy" 
+:END:
+
+*** COOLJ-241+2219
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :subtitle "A bright lensed galaxy at /z/ = 5" 
+:END:
+
+*** TODO HOLy GraLeS
+
+** DONE Haro 11
+CLOSED: [2022-07-01 Fri 17:49]
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :subtitle "A nearby laboratory of star formation, ISM properties and ionizing escape" 
+:EXPORT_HUGO_SECTION: page
+:EXPORT_HUGO_BUNDLE: haro11
+:EXPORT_FILE_NAME: index
+:END:
+
+#+begin_src toml :front_matter_extra t
+  bigimg=[{src="/images/Haro11Hubblesite.jpg"}]
+#+end_src
+
+Something something about Haro 11. There is a lot to write.
+
+* DONE Outreach
+CLOSED: [2022-07-05 Tue 03:21]
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: page
+:EXPORT_FILE_NAME: outreach
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc 1
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-05 Tue 03:21]
+:END:
+
+I love telling about the Universe to anyone who wants to listen. I have given
+guided planetarium tours and telescope showings; held public lectures, talked in
+high schools and bars, taken part in a game developer jam, and appeared on
+podcasts and on national TV; and shared a number of explainer threads on social
+media.
+
+I always love to connect with science and astronomy enthusiasts out there -
+please find my contact info and social media below!
+
+#+HUGO: more
+
+
+** Popular lectures
+Here is (going to be) a list of public presentations I have given over
+recent years. Where possible, I include links to video recordings
+and/or slides for anyone who is interested. 
+
+- Here is one way of doing it
+- Here is the same way of doing it, but one more time
+
+
+*** Here is another way of doing it
+
+*** And the other way again, but one more time
+
+** Folly and tomfoolery                                              :noexport:
+Because sometimes it's just got to be a bit silly.
+
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Nulla posuere.  Donec vitae dolor.  Nullam tristique diam non turpis.  Cras placerat accumsan nulla.  Nullam rutrum.  Nam vestibulum accumsan nisl.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Nulla posuere.  Donec vitae dolor.  Nullam tristique diam non turpis.  Cras placerat accumsan nulla.  Nullam rutrum.  Nam vestibulum accumsan nisl.
+
+Nullam eu ante vel est convallis dignissim.  Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.  Nunc porta vulputate tellus.  Nunc rutrum turpis sed pede.  Sed bibendum.  Aliquam posuere.  Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.  Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet urna.  Curabitur vulputate vestibulum lorem.  Fusce sagittis, libero non molestie mollis, magna orci ultrices dolor, at vulputate neque nulla lacinia eros.  Sed id ligula quis est convallis tempor.  Curabitur lacinia pulvinar nibh.  Nam a sapien.
+
+
+* Blog
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: post
+:END:
+** DONE Hallo hallo
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-05-31-hallo-hallo
+:EXPORT_DATE: <2022-05-30 Mon>
+:END:
+
+Nå så kan det være det kan blive til noget hvad
+
+** DONE Code testing
+:PROPERTIES:
+:EXPORT_FILE_NAME: code-testing
+:EXPORT_DATE: <2022-07-04 Mon>
+:subtitle: From ~org-hugo~
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-31 Tue 00:11]
+:END:
+
+#+begin_src python
+  from astropy.io import fits
+
+  def my_function(my_arg, my_kwarg=None, *args, **kwargs):
+      return my_arg
+#+end_src
+
+** DONE A little verse                                                   :@moi:
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-first-post
+:EXPORT_DATE: <2022-05-30 Mon>
+:END:
+
+This is a very cute little verse that I wrote once, isn't it cute?
+#+hugo: more
+#+begin_quote
+Der var en gang en mand \\
+Han boede i en spand    \\
+og spanden var af ler  \\
+og konen vasked bleer  \\
+og sønnen var barber  \\
+og tanten spilled klaver  \\
+Nu kan jeg ikke mer'  \\
+#+end_quote
+
+Also, here is a nice picture:
+
+# #+caption: Forsiden til Okker Gokker Gummi Klokker bogen.
+#+attr_html: :width 800px
+#+attr_org: :width 200px
+[[../static/images/okkergokker.jpg]]
+
+That is the book from whence the above verse was taken. It is a good
+book. Isn't that nice. Longer text longer text longer text. 
+** DONE Testing ox-hugo capture template
+CLOSED: [2022-07-07 Thu 02:48]
+:PROPERTIES:
+:EXPORT_FILE_NAME: testing-ox-hugo-capture-template
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-07 Thu 02:48]
+:END:
+
+So it does not add date to the file name. But does it actually show the file
+name in the right order on the blog? 🥬🌊...
+
+* Footnotes
+

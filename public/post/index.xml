@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on T. Emil Rivera-Thorsen</title>
+    <link>https://username.github.io/post/</link>
+    <description>Recent content in Posts on T. Emil Rivera-Thorsen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>trive@astro.su.se (Emil Rivera-Thorsen)</managingEditor>
+    <webMaster>trive@astro.su.se (Emil Rivera-Thorsen)</webMaster>
+    <lastBuildDate>Thu, 07 Jul 2022 02:48:00 +0200</lastBuildDate><atom:link href="https://username.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing ox-hugo capture template</title>
+      <link>https://username.github.io/post/testing-ox-hugo-capture-template/</link>
+      <pubDate>Thu, 07 Jul 2022 02:48:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/post/testing-ox-hugo-capture-template/</guid>
+      <description>So it does not add date to the file name. But does it actually show the file name in the right order on the blog? 🥬🌊&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Code testing</title>
+      <link>https://username.github.io/post/code-testing/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/post/code-testing/</guid>
+      <description>from astropy.io import fits def my_function(my_arg, my_kwarg=None, *args, **kwargs): return my_arg </description>
+    </item>
+    
+    <item>
+      <title>A little verse</title>
+      <link>https://username.github.io/post/my-first-post/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/post/my-first-post/</guid>
+      <description>&lt;p&gt;This is a very cute little verse that I wrote once, isn&amp;rsquo;t it cute?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hallo hallo</title>
+      <link>https://username.github.io/post/2022-05-31-hallo-hallo/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/post/2022-05-31-hallo-hallo/</guid>
+      <description>Nå så kan det være det kan blive til noget hvad</description>
+    </item>
+    
+  </channel>
+</rss>

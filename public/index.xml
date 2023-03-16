@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emil Rivera-Thorsen on T. Emil Rivera-Thorsen</title>
+    <link>https://username.github.io/</link>
+    <description>Recent content in Emil Rivera-Thorsen on T. Emil Rivera-Thorsen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>trive@astro.su.se (Emil Rivera-Thorsen)</managingEditor>
+    <webMaster>trive@astro.su.se (Emil Rivera-Thorsen)</webMaster>
+    <lastBuildDate>Tue, 05 Jul 2022 03:24:00 +0200</lastBuildDate><atom:link href="https://username.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Sunburst Arc</title>
+      <link>https://username.github.io/page/sunburst/</link>
+      <pubDate>Fri, 05 Aug 2022 17:08:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/page/sunburst/</guid>
+      <description>&lt;p&gt;The Sunburst Arc is a&amp;hellip; (bla bla bla)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Testing ox-hugo capture template</title>
+      <link>https://username.github.io/post/testing-ox-hugo-capture-template/</link>
+      <pubDate>Thu, 07 Jul 2022 02:48:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/post/testing-ox-hugo-capture-template/</guid>
+      <description>So it does not add date to the file name. But does it actually show the file name in the right order on the blog? 🥬🌊&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://username.github.io/page/about/</link>
+      <pubDate>Tue, 05 Jul 2022 03:24:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/page/about/</guid>
+      <description>Vær hilset,
+I am an astrophysics researcher at the Oscar Klein Center in Stockholm, Sweden. My research is focused on the properties and evolution of Starburst galaxies and how they have influenced the evolution history of the Universe from a few hundred million years after the Big Bang and up till today. I am particularly interesting in using Gravitational Lensing as a sort of &amp;ldquo;natural telescope&amp;rdquo; to study extremely distant, but highly magnified, starburst galaxies as if they were close by.</description>
+    </item>
+    
+    <item>
+      <title>Outreach</title>
+      <link>https://username.github.io/page/outreach/</link>
+      <pubDate>Tue, 05 Jul 2022 03:21:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/page/outreach/</guid>
+      <description>&lt;p&gt;I love telling about the Universe to anyone who wants to listen. I have given
+guided planetarium tours and telescope showings; held public lectures, talked in
+high schools and bars, and appeared on podcasts and on national TV; and shared a
+number of explainer threads on social media.&lt;/p&gt;
+&lt;p&gt;I am always happy te tell more about&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Code testing</title>
+      <link>https://username.github.io/post/code-testing/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/post/code-testing/</guid>
+      <description>from astropy.io import fits def my_function(my_arg, my_kwarg=None, *args, **kwargs): return my_arg </description>
+    </item>
+    
+    <item>
+      <title>Haro 11</title>
+      <link>https://username.github.io/page/haro11/</link>
+      <pubDate>Fri, 01 Jul 2022 17:49:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/page/haro11/</guid>
+      <description>Something something about Haro 11. There is a lot to write.</description>
+    </item>
+    
+    <item>
+      <title>JWST</title>
+      <link>https://username.github.io/page/jwst/</link>
+      <pubDate>Fri, 01 Jul 2022 17:49:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/page/jwst/</guid>
+      <description>&lt;p&gt;My work with JWST.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://username.github.io/page/research/</link>
+      <pubDate>Fri, 01 Jul 2022 17:49:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/page/research/</guid>
+      <description>I am an observational extragalactic astronomer specialized in the study of star formation and the interstellar medium in highly star-forming (or starburst) galaxies. I study these galaxies using some of the most advances telescopes in the world, including the ESO Very Large Telescope in Paranal, Chile, as well as the Hubble Space Telescope and the new, exciting JWST. Below is a list of some of the projects I have either led or been involved in over the last few years.</description>
+    </item>
+    
+    <item>
+      <title>A little verse</title>
+      <link>https://username.github.io/post/my-first-post/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/post/my-first-post/</guid>
+      <description>&lt;p&gt;This is a very cute little verse that I wrote once, isn&amp;rsquo;t it cute?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hallo hallo</title>
+      <link>https://username.github.io/post/2022-05-31-hallo-hallo/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/post/2022-05-31-hallo-hallo/</guid>
+      <description>Nå så kan det være det kan blive til noget hvad</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>https://username.github.io/page/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/page/media/</guid>
+      <description>Press releases OKC press release about JWST Cycle 1 programs: Two OKC researchers will be among the first to use JWST University of Oslo press release about JWST Cycle 1 programs: James Webb: Norsk forsker er blant de første som får ta bilder med superteleskopet 🇳🇴 OKC press release about the Sunburst Arc Astronomers find galaxy revealing its innermost secrets – in 12 copies UiO press release about the Sunburst Arc: Astronomers observe a sunburst from the early universe – in 12 copies NASA/ESA Hubble image release about the Sunburst Arc: Hubble Captures a Dozen Sunburst Arc Doppelgangers Video and podcasts RumSnak, a Space podcast from Denmark, with me as a guest: Galakser som forstørrelsesglas 🇩🇰 TV4 Nyhetsmorgon - I told a bit about the JWST to the morning news of national Swedish television channel TV4.</description>
+    </item>
+    
+  </channel>
+</rss>

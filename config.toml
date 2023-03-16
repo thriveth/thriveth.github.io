@@ -1,0 +1,154 @@
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "T. Emil Rivera-Thorsen"
+homeTitle = "About me"
+# title = "About me"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+# pygmentsStyle = "trac"
+pygmentsStyle = "molokai"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+enableEmoji = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  # homeTitle = "Welcome to my Space"  # Rivera-Thorsen" # Set a different text for the header on the home page
+  # homeTitle = "Emil Rivera-Thorsen, Ph.D."  # Rivera-Thorsen" # Set a different text for the header on the home page
+  # subtitle = "Astrophysicist, Ph.D."
+  # subtitle = "❧ I stare into Space for a living ☙"
+  # subtitle = "❧ I space out for a living ☙"
+  subtitle = "I space out for a living"
+  # subtitle = "❧ Astrophysicist at the Oscar Klein Centre, Stockholm University ❧"
+  # subtitle = "I stare into Space for a living."
+  # mainSections = ["post","posts"]
+  mainSections = ["post", "about"]
+  logo = "Me_NOT_small.jpg" # Expecting square dimensions
+  favicon = "favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = true
+  wordCount = true
+  useHLJS = false
+  socialShare = false
+  delayDisqus = false
+  showRelatedPosts = true
+  hideAuthor = true
+
+[[Params.bigimg]]
+  src = "images/potw1549a-scaled.jpeg"
+  # src = "img/hexagon.jpg"
+  desc = "Photo: John Colosimo/ESO"
+
+[Author]
+  name = "Emil Rivera-Thorsen"
+  # website = "http://theriveth.me"
+  email = "trive@astro.su.se"
+  # facebook = "username"
+  github = "thriveth"
+  # gitlab = "username"
+  # bitbucket = "username"
+  twitter = "thoeger"
+  # reddit = "username"
+  linkedin = "teriveth"
+  # xing = "username"
+  # stackoverflow = "users/1848101/thriveth"
+  # snapchat = "username"
+  # instagram = "username"
+  # youtube = "user/username" # or channel/channelname
+  # soundcloud = "username"
+  # spotify = "username"
+  # bandcamp = "username"
+  # itchio = "username"
+  # vk = "username"
+  # paypal = "username"
+  # telegram = "username"
+  # 500px = "username"
+  # codepen = "username"
+  # mastodon = "astrodon.social"
+  # mastodon = "https://astrodon.social/web/@thriveth"
+  mastodon = "astrodon.social/@thriveth"
+  # kaggle = "username"
+  # weibo = "username"
+  slack = "username"
+
+
+[menu]
+[[menu.main]]
+    identifier = "about"
+    name = "About me"
+    url = "page/about"
+    weight = 1
+
+[[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "page/research"
+    weight = 1
+
+[[menu.main]]
+    name = "Media"
+    identifier = "media"
+    url = "page/media"
+    weight = 3
+
+[[menu.main]]
+    name = "Blog"
+    url = "post"
+    weight = 4
+
+
+# [[menu.main]]
+#     name = "Vitae↗"
+#     url = "media/CV-short-SU2020.pdf"
+#     weight = 4
+
+# [[menu.main]]
+#     name = "Publications↗"
+#     identifier = "ext-publications"
+#     url = "https://ui.adsabs.harvard.edu/search/q=%22Rivera-Thorsen%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+#     weight = 5
+
+# [[menu.about]]
+#     name = "Publications"
+#     parent = "about"
+#     url = "https://ui.adsabs.harvard.edu/search/q=%22Rivera-Thorsen%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+
+# [[menu.main]]
+#     name = "Home"
+#     url = "home"
+#     weight = 1
+
+# [[menu.main]]
+#     parent = "research"
+#     identifier = "haro11"
+#     name = "The nearby starburst galaxy Haro 11"
+#     url = "page/haro11"
+#     weight = 1
+
+# [[menu.main]]
+#     parent = "research"
+#     name = "JWST"
+#     url = "page/jwst"
+#     weight = 2
+
+# [[menu.main]]
+#     parent = "research"
+#     name = "Code Sample"
+#     url = "post/2016-03-08-code-sample"
+#     weight = 3
+
+# [[menu.main]]
+#     name = "Tags"
+#     url = "tags"
+#     weight = 4
+
+[markup.goldmark.renderer]
+  unsafe = true

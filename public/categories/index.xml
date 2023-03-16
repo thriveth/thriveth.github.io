@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on T. Emil Rivera-Thorsen</title>
+    <link>https://username.github.io/categories/</link>
+    <description>Recent content in Categories on T. Emil Rivera-Thorsen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>trive@astro.su.se (Emil Rivera-Thorsen)</managingEditor>
+    <webMaster>trive@astro.su.se (Emil Rivera-Thorsen)</webMaster>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://username.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>moi</title>
+      <link>https://username.github.io/categories/moi/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/categories/moi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
