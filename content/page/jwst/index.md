@@ -18,4 +18,4 @@ My work with JWST.
 ## COOLJ-241+2219 {#coolj-241-plus-2219}
 
 
-## <span class="org-todo todo TODO">TODO</span> HOLy GraLeS {#holy-grales}
+## HOLy GraLeS {#holy-grales}

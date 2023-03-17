@@ -6,6 +6,11 @@ toc = 2
 bigimg=[{src="/images/media-2.jpeg"}]
 +++
 
+_Here is a collection of links to various media appearances --- [Press releases](#press-releases), [Video and podcasts](#video-and-podcasts), [Internet and print media](#internet-and-print-media), and [Misc.](#misc-dot)
+--- of  my  work   or  me,  or  of   reasonably  close  collaborators.
+Non-English languages are marked with flags._
+
+
 ## Press releases {#press-releases}
 
 -   **_OKC_** press release about JWST Cycle 1 programs: [Two OKC researchers will be

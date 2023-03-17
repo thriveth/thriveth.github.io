@@ -1,5 +1,6 @@
-#+hugo_base_dir: ~/Arbejde/Org-hugo-site/beautiful/
+#+hugo_base_dir: ~/Arbejde/astrome/thriveth.github.io/
 #+startup: logdone 
+#+options: todo:nil
 
 * DONE About me
 CLOSED: [2022-07-05 Tue 03:24]
@@ -44,6 +45,44 @@ the Niels Bohr Institute, Copenhagen, Denmark, working with [[https://www.nbi.dk
 I grew  up a bookish redneck  in the countryside  near [[https://en.wikipedia.org/wiki/Faaborg][Faaborg]], a small  town in
 southern Denmark. I now live with my American wife and our two kids.
 
+* Welcome
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: _index
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-05 Tue 03:24]
+:END:
+
+# #+attr_org: :width 800px
+# #+attr_html: :width 100% :align right
+# [[../static/emil_wide.png]]
+
+# */Vær hilset,/*
+
+*** Vær hilset,
+
+I am an  astrophysicist studying the inner workings of  bright, frantically star
+forming galaxies across  the Universe. I am  based at the [[http://okc.albanova.se][Oscar  Klein Center]] in
+Stockholm, Sweden, and collaborate with researchers across the World.
+You can find more about my research [[*My research][here]].
+
+Currently, I am funded by a 4-year grant from [[https://www.vr.se/][Vetenskapsrådet / Swedish Research
+Council]],  to search  for and  study gravitationally  lensed starbursts  that are
+leaking ionizing UV  light into the Universe,  using cool toys such  as the /[[https://webbtelescope.org/][JWST]]/
+the /[[https://hubblesite.org/][Hubble Space Telescope]]/, and the ESO [[https://www.eso.org/public/teles-instr/paranal-observatory/vlt/][Very Large Telescope]]. Before this, I was
+a postdoc at Stockholm University, working  with [[https://xayes.org/pub/][Matthew Hayes]], working on Lyman
+Continuum  emitters  in the  [[https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field][Hubble  Ultra  Deep Field]];  and  a  postdoc at  the
+University of Oslo,  Norway, working with [[https://www.mn.uio.no/astro/english/people/aca/hdahle/index.html][Håkon Dahle]]  on gravitationally lensed
+starburst galaxies.
+
+I earned my *Ph.D.* from Stockholm University in December 2016, working with Göran
+Östlin, and my *Bachelor's* and *Master's* degrees from the [[https://dark.nbi.ku.dk][DARK Cosmology Center]] at
+the Niels Bohr Institute, Copenhagen, Denmark, working with [[https://www.nbi.dk/~jfynbo/][Johan Fynbo]].
+
+I grew  up a bookish redneck  in the countryside  near [[https://en.wikipedia.org/wiki/Faaborg][Faaborg]], a small  town in
+southern Denmark. I now live with my American wife and our two kids.
+
 * Media
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: page
@@ -55,6 +94,10 @@ southern Denmark. I now live with my American wife and our two kids.
 #+begin_src toml :front_matter_extra t
   bigimg=[{src="/images/media-2.jpeg"}]
 #+end_src
+/Here is a collection of links to various media appearances --- [[*Press
+releases]], [[*Video and podcasts]], [[*Internet and print media]], and [[*Misc.]]
+--- of  my  work   or  me,  or  of   reasonably  close  collaborators.
+Non-English languages are marked with flags./
 
 ** Press releases
 - */OKC/* press release about JWST Cycle 1 programs: [[http://www.okc.albanova.se/about-us/news/two-okc-researchers-will-be-among-the-first-to-use-jwst-1.550563][Two OKC researchers will be
@@ -100,7 +143,7 @@ southern Denmark. I now live with my American wife and our two kids.
 [fn:1] This one I am extra proud of. /Phil Plait/!! 🤩
 
 * Research
-** DONE Research
+** DONE My research
 CLOSED: [2022-07-01 Fri 17:49]
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: page
@@ -112,12 +155,22 @@ CLOSED: [2022-07-01 Fri 17:49]
 - State "DONE"       from              [2022-07-01 Fri 17:49]
 :END:
 
-I am an observational extragalactic astronomer specialized in the study of star
-formation and the interstellar medium in highly star-forming (or /starburst/)
-galaxies. I study these galaxies using some of the most advances telescopes in
-the world, including the ESO Very Large Telescope in Paranal, Chile, as well as
-the /Hubble Space Telescope/ and the new, exciting /JWST/. Below is a list of some
+I am an observational extragalactic astronomer  specialized in the study of star
+formation  and the  interstellar medium  in highly  star-forming (or  /starburst/)
+galaxies. I study  these galaxies using some of the  most advances telescopes in
+the world, including the ESO Very Large  Telescope in Paranal, Chile, as well as
+the /Hubble Space Telescope/  and the new, exciting /JWST/. Below is  a list of some
 of the projects I have either led or been involved in over the last few years.
+
+My research is focused on the properties and evolution of [[https://en.wikipedia.org/wiki/Starburst_galaxy][Starburst galaxies]] and
+how  they have  influenced the  evolution  history of  the Universe  from a  few
+hundred million years  after the Big Bang  and up till today.  I am particularly
+interesting in using  [[https://en.wikipedia.org/wiki/Strong_gravitational_lensing][Gravitational Lensing]] as a sort of  "natural telescope" to
+study extremely  distant, but  highly magnified, starburst  galaxies as  if they
+were close by. I am also interested in the phenomenon of [[https://en.wikipedia.org/wiki/Supermassive_black_hole][Supermassive Black
+Holes]],  and their  relation to  star formation  and how  they can  disrupt the
+interstellar medium of their host galaxies.
+
 
 *** James Webb Space Telescope
 I have been fortunate enough to lead a succesful application to
@@ -135,7 +188,6 @@ light in them.
   
 Something something [[*JWST][JWST]], and also some [[*Haro 11]]. And some [[*The
 Sunburst Arc]]. And perhaps some UVUDF stuff.
-
 
 *** Folly and tomfoolery                                            :noexport:
 Because sometimes it's just got to be a bit silly.

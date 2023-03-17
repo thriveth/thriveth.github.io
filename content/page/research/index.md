@@ -1,6 +1,6 @@
 +++
-title = "Research"
-author = ["T. Emil Rivera-Thorsen"]
+title = "My research"
+author = ["Emil Rivera-Thorsen"]
 date = 2022-07-01T17:49:00+02:00
 draft = false
 toc = 1
@@ -29,4 +29,4 @@ escpecially expensive telescope time, so when studying these galaxies,
 we want to optimize the chances that we actually find escaping LyC
 light in them.
 
-Something something [JWST]({{< relref "jwst" >}}), and also some [Haro 11]({{< relref "haro11" >}}). And some [The Sunburst Arc]({{< relref "media#the-sunburst-arc" >}}). And perhaps some UVUDF stuff.
+Something something [JWST]({{< relref "jwst" >}}), and also some [Haro 11]({{< relref "haro11" >}}). And some [The Sunburst Arc]({{< relref "jwst#the-sunburst-arc" >}}). And perhaps some UVUDF stuff.
